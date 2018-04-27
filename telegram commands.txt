@@ -1,0 +1,14 @@
+pause - pause the bot
+bots - show active bots
+screen - take a screenshot
+config - show active config
+coop - toggle co-op bot 
+angel - toggle angel halo bot
+raidf_r - restart raidfinder snipe bot
+coop_r - restart co-op bot
+coop_leave - leave co-op room
+coop_pan - toggle pandemonium joining
+berries - toggle berries usage
+elixirs - toggle elixir usage
+switchfarm - switch quests to farm
+ep - set the ep needed
